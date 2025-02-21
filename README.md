@@ -1,4 +1,4 @@
-![logo](https://github.com/ammad-muhammad/ammad-muhammad/blob/main/logo.png)
+![logo]([https://github.com/ammad-muhammad/ammad-muhammad/blob/main/logo.png](https://github.com/ammad-muhammad/ammad-muhammad/blob/main/Black%20Elegeance%20Modern%20Offline%20Twitch%20Banner%20(1).png))
 
 <h1 align="center">Hi 👋, I'm Muhammad Ammad</h1>
 <h3 align="center">"Frontend developer dedicated to creating visually appealing and user-friendly interfaces. Skilled in HTML, CSS, and JavaScript, I focus on delivering responsive and engaging web experiences. Passionate about blending creativity with functionality to bring ideas to life! 🚀🎨"</h3>
